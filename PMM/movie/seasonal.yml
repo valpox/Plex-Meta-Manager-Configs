@@ -115,7 +115,7 @@ collections:
     template:
       - name: Holiday
         season: halloween
-        schedule_halloween: range(10/01-10/31)
+        schedule_halloween: range(09/01-10/31)
       - name: shared
     imdb_list:
       - https://www.imdb.com/list/ls023118929/
